@@ -1,0 +1,28 @@
+Name: Welcome to Karbon CMS
+----
+MitFelt: diller
+----
+
+Content: 
+
+Yay! If you are seeing this, the installation of Karbon CMS worked :)
+Now just give the links in the menu a try to make sure the routing works and you are all set.
+
+
+
+Check out the docs at <http://karboncms.com/docs> to find out what to do next or [join us on the forum](https://groups.google.com/forum/#!forum/karboncms) if you have any questions.
+
+
+
+Have fun!
+----
+
+###################################################################
+# Site Settings
+###################################################################
+
+SiteName: Karbon CMS
+----
+
+SiteCopyright: &copy; Copyright [The Outfield](http://theoutfield.net)
+----
